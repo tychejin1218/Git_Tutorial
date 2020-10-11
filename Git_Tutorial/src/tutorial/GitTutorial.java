@@ -9,5 +9,7 @@ public class GitTutorial {
 		System.out.println("branch - develop");
 		
 		System.out.println("conflict01");
+		
+		System.out.println("conflict02");
 	}
 }
